@@ -4,7 +4,7 @@ https://roadmap.sh/projects/pharmaceutical-sales-data
 
 CSV file: salesdaily.csv from Kaggle 
 
-#Drug Sales Analysis Using Python
+# Drug Sales Analysis Using Python
 
 # Project Overview
 
