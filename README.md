@@ -1,11 +1,12 @@
 # Analysing-pharmaceutical-sales-data-
 https://roadmap.sh/projects/pharmaceutical-sales-data
+CSV file: salesdaily.csv from Kaggle 
 
 #Drug Sales Analysis Using Python
 
 # Project Overview
 
-This project focuses on analysing daily drug sales data using Python. The main objective is to identify sales patterns, understand the performance of different drug categories, and analyse changes in sales over time.
+This project analyses daily drug sales data using Python. The main objective is to identify sales patterns, understand the performance of different drug categories, and analyse changes in sales over time.
 
 The project uses Python libraries such as Pandas for data analysis and Matplotlib for data visualisation.
 
